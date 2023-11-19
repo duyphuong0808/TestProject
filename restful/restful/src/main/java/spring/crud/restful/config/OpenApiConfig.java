@@ -15,7 +15,7 @@ public class OpenApiConfig {
         return new OpenAPI()
                 .servers(Lists.newArrayList(
                         new Server().url("http://localhost:8080"),
-                        new Server().url("testproject-production-ae4f.up.railway.app")
+                        new Server().url("https://testproject-production-ae4f.up.railway.app/")
 
                 ))
                 // info

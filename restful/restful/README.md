@@ -38,6 +38,8 @@ Optional<Member> findByIdAndBlock(@Param("memberId") Long memberId, @Param("bloc
 
 ## Use this link to test API.
 - http://localhost:8080/swagger-ui/index.html
+- or test with server
+- https://testproject-production-ae4f.up.railway.app/swagger-ui/index.html
 
 
 
